@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 import Resume from "./resume/AARON KELLER Resume.pdf";
 
+
 function About() {
   return (
     <section className="bg-light about-page" id="about">

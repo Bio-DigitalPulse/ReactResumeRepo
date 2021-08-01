@@ -1,5 +1,10 @@
 .about-page {
   padding: 175px;
+  background-image: url("./images/20201230_203900.jpg");
+  left: 50%;
+  height: 100%;
+  background-position: 0;
+  background-repeat: no-repeat;
 }
 
 .about-btn {
@@ -11,4 +16,5 @@
 .about {
   font-family: "Biryani", sans-serif;
   font-weight: 900;
+
 }
