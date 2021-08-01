@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactresumerepo/static/css/main.c578a894.chunk.css",
+    "main.js": "/reactresumerepo/static/js/main.29a4dd29.chunk.js",
+    "main.js.map": "/reactresumerepo/static/js/main.29a4dd29.chunk.js.map",
+    "runtime-main.js": "/reactresumerepo/static/js/runtime-main.62e44f70.js",
+    "runtime-main.js.map": "/reactresumerepo/static/js/runtime-main.62e44f70.js.map",
+    "static/css/2.041bb2c8.chunk.css": "/reactresumerepo/static/css/2.041bb2c8.chunk.css",
+    "static/js/2.49030d63.chunk.js": "/reactresumerepo/static/js/2.49030d63.chunk.js",
+    "static/js/2.49030d63.chunk.js.map": "/reactresumerepo/static/js/2.49030d63.chunk.js.map",
+    "index.html": "/reactresumerepo/index.html",
+    "static/css/2.041bb2c8.chunk.css.map": "/reactresumerepo/static/css/2.041bb2c8.chunk.css.map",
+    "static/css/main.c578a894.chunk.css.map": "/reactresumerepo/static/css/main.c578a894.chunk.css.map",
+    "static/js/2.49030d63.chunk.js.LICENSE.txt": "/reactresumerepo/static/js/2.49030d63.chunk.js.LICENSE.txt",
+    "static/media/AARON KELLER Resume.8365d0f4.pdf": "/reactresumerepo/static/media/AARON KELLER Resume.8365d0f4.pdf",
+    "static/media/Budget Tracker.03afd08e.png": "/reactresumerepo/static/media/Budget Tracker.03afd08e.png",
+    "static/media/Employee-Directo.247ac35f.png": "/reactresumerepo/static/media/Employee-Directo.247ac35f.png",
+    "static/media/Fitness Chart.5aa4c458.png": "/reactresumerepo/static/media/Fitness Chart.5aa4c458.png",
+    "static/media/Javascript Code .29d05408.png": "/reactresumerepo/static/media/Javascript Code .29d05408.png",
+    "static/media/Note Taker.6afccdb7.png": "/reactresumerepo/static/media/Note Taker.6afccdb7.png",
+    "static/media/Weather Dashboar.4f54115b.png": "/reactresumerepo/static/media/Weather Dashboar.4f54115b.png",
+    "static/media/style.css": "/reactresumerepo/static/media/pawel-czerwinski-z7prq6BtPE4-unsplash.f8b5e8bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e44f70.js",
+    "static/css/2.041bb2c8.chunk.css",
+    "static/js/2.49030d63.chunk.js",
+    "static/css/main.c578a894.chunk.css",
+    "static/js/main.29a4dd29.chunk.js"
+  ]
+}
