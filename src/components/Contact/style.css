@@ -1,0 +1,19 @@
+#contact {
+  background-image: url("./image/pawel-czerwinski-Y-THBd9Y5l8-unsplash.jpg");
+  background-position: center;
+}
+.contact {
+  font-family: "Biryani", sans-serif;
+  font-weight: 900;
+}
+
+.divider {
+  color: white;
+}
+
+.contact-btn:hover {
+  transition: all 0.2s ease-in-out;
+  color: white;
+  cursor: pointer;
+  transform: scale(1.5);
+}
